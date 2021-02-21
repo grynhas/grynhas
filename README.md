@@ -1,4 +1,4 @@
-![alt text](https://github.com/[grynhas]/[Patrick-Reis]/blob/[main]/img/Patrick.reis.png)
+![alt text](https://github.com/grynhas/Patrick-Reis/blob/main/img/Patrick.reis.png)
 # Patrick Reis ⭐
 
 ## 💻Desenvolvedor Front End
