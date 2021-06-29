@@ -9,3 +9,5 @@ Atualmente trabalho na Devires tecnologia como dev front end e na Digital House 
 
 Meu foco atual é adquirir conhecimentos mais robustos em **ReactJS, Node.js** e **graphQL**.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grynhas&theme=dark&show_icons=true)
+[![grynhas](https://github-readme-stats.vercel.app/api/top-langs/?username=grynhas&hide=html&layout=compact&theme=dark)](https://github.com/grynhas/)
