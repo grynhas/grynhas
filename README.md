@@ -1,13 +1,15 @@
 ![alt text](https://github.com/grynhas/Patrick-Reis/blob/main/img/Patrick.reis.png)
 # Patrick Reis ⭐
 
-## 💻Desenvolvedor Front End
+## 💻 Desenvolvedor Front End
 
-Meu nome é **Patrick Reis** e me tornei desenvolvedor há aproximadamente 1 ano 📆.
+Meu nome é ***Patrick Reis***, tive meu primeiro contato com a área de TI há aproximadamente 3 anos 📆., atualmente trabalho na MZ como desenvolvedor front end. Nosso time de desenvolvimento trabalha com métodos ágeis (**SCRUM/Kanban**)no dia a dia e as tecnologias que mais utilizo são **JavaScript** e seus derivados (**React Js, React Native, TypeScript, Node.js, MySQL e graphQL**). Aprender sempre foi uma prioridade.
+Por isso, sempre busco me manter atualizado nas novas tecnologias para poder entregar o melhor pra minha equipe e clientes.
 
-Atualmente trabalho na Devires tecnologia como dev front end e na Digital House como instrutor assistente , Trabalhamos com métodos ágeis (SCRUM ou Kanban) No dia a dia as tecnologias que mais utilizo são **JavaScript** e **HTML** e **CSS (SCSS)**. Também utilizo ou já utilizei  **TypeScript, ReactJS, Node.js** e **graphQL**, também já tive experiência com testes automatizados usando **Katalon studio**📲. 
+Hoje meu foco está nos estudos e, principalmente, nos frameworks React Native e Next.js. Pretendo ainda estudar mais as plataformas mobiles nativas, iOS e Android. Esse é o momento de aprimorar meus conhecimentos para conquistar novos desafios na carreira. Acredito que essa combinação vai me ajudar a obter grandes resultados profissionais.
 
-Meu foco atual é adquirir conhecimentos mais robustos em **ReactJS, Node.js** e **graphQL**.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grynhas&theme=dark&show_icons=true)
-[![grynhas](https://github-readme-stats.vercel.app/api/top-langs/?username=grynhas&hide=html&layout=compact&theme=dark)](https://github.com/grynhas/)
+<div align="center">
+  <a href="https://github.com/grynhas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grynhas&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grynhas&hide=html&layout=compact&theme=dark"/>
+</div>
